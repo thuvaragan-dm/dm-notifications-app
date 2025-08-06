@@ -4,6 +4,7 @@
   "appId": "com.dm-notifications.app",
   "asar": true,
   "productName": "DM Notifications",
+  "publish": null,
   "directories": {
     "output": "release/${version}"
   },

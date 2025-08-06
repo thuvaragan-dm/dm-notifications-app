@@ -2,6 +2,8 @@
   "name": "dm-notifications",
   "private": true,
   "version": "0.0.0",
+  "description": "DM Notifications Desktop Application",
+  "author": "DM Notifications Team",
   "type": "module",
   "scripts": {
     "dev": "vite",
