@@ -1,9 +1,6 @@
 name: Build and Release All Platforms
 
 on:
-  push:
-    tags:
-      - 'v*'
   workflow_dispatch:
     inputs:
       version:
